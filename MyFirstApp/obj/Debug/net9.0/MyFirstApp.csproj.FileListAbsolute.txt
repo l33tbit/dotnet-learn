@@ -1,0 +1,15 @@
+/home/developper/learning/dotnet/MyFirstApp/bin/Debug/net9.0/MyFirstApp
+/home/developper/learning/dotnet/MyFirstApp/bin/Debug/net9.0/MyFirstApp.deps.json
+/home/developper/learning/dotnet/MyFirstApp/bin/Debug/net9.0/MyFirstApp.runtimeconfig.json
+/home/developper/learning/dotnet/MyFirstApp/bin/Debug/net9.0/MyFirstApp.dll
+/home/developper/learning/dotnet/MyFirstApp/bin/Debug/net9.0/MyFirstApp.pdb
+/home/developper/learning/dotnet/MyFirstApp/obj/Debug/net9.0/MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/developper/learning/dotnet/MyFirstApp/obj/Debug/net9.0/MyFirstApp.AssemblyInfoInputs.cache
+/home/developper/learning/dotnet/MyFirstApp/obj/Debug/net9.0/MyFirstApp.AssemblyInfo.cs
+/home/developper/learning/dotnet/MyFirstApp/obj/Debug/net9.0/MyFirstApp.csproj.CoreCompileInputs.cache
+/home/developper/learning/dotnet/MyFirstApp/obj/Debug/net9.0/MyFirstApp.sourcelink.json
+/home/developper/learning/dotnet/MyFirstApp/obj/Debug/net9.0/MyFirstApp.dll
+/home/developper/learning/dotnet/MyFirstApp/obj/Debug/net9.0/refint/MyFirstApp.dll
+/home/developper/learning/dotnet/MyFirstApp/obj/Debug/net9.0/MyFirstApp.pdb
+/home/developper/learning/dotnet/MyFirstApp/obj/Debug/net9.0/MyFirstApp.genruntimeconfig.cache
+/home/developper/learning/dotnet/MyFirstApp/obj/Debug/net9.0/ref/MyFirstApp.dll
